@@ -1,7 +1,7 @@
 <div align="center">
 
   # **Hi, I'm Pathmanaban 😈**  
-  ### Full Stack Developer | Game Developer
+  ## Full Stack Developer | Game Developer
 </div>
 
 <p style="max-width: 600px; font-size: 16px; line-height: 1.6;">
@@ -18,8 +18,7 @@
 </p>
 <hr>
 
-### 🚀 What I'm Working On
-
+## 🚀 What I'm Working On
 
 - Building full-stack web apps with React & Next.js  
 - Creating 2D/3D games with Unity and C#  
